@@ -1,1 +1,13 @@
-[]
+[
+   {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.passkeymanager",
+            "sha256_cert_fingerprints": ["A4:C7:23:5D:42:28:83:14:9B:CF:DA:A6:03:82:D0:12:A4:8D:9A:DA:3E:B3:FF:7C:4B:3F:F6:A2:8E:40:F6:E8"]
+        }
+    }
+]
